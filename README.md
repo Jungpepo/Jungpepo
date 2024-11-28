@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center"> Oi Gente👋</h1>
+<h1 align="center"> Oi, pessoal 👋</h1>
 
 ###
 
