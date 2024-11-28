@@ -24,7 +24,7 @@
 
 <div align="left">
 
-<title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
+<title="Python"><src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
 
 </div>
 
