@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://photos.fife.usercontent.google.com/pw/AP1GczMnu1ZXBGTHXINuNOumC5gZk0Jotqwzcq8PZPOgY6BL5rr6im4ExPS1SA=w937-h937-s-no-gm?authuser=0"  />
 
 ###
 
@@ -43,7 +43,3 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
