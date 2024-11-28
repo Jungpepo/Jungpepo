@@ -9,7 +9,7 @@
 
 ###
 
-<<img src="https://photos.fife.usercontent.google.com/pw/AP1GczMnu1ZXBGTHXINuNOumC5gZk0Jotqwzcq8PZPOgY6BL5rr6im4ExPS1SA=w937-h937-s-no-gm?authuser=0"  />
+<img src="https://photos.fife.usercontent.google.com/pw/AP1GczMnu1ZXBGTHXINuNOumC5gZk0Jotqwzcq8PZPOgY6BL5rr6im4ExPS1SA=w937-h937-s-no-gm?authuser=0" />
 
 ###
 
