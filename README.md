@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">Eu ... sou ... de São Paulo ...<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">Eu...sou...de São Paulo...<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ###
 
