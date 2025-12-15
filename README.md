@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">Eu sou de São Paulo.  <br><br>- 🔭 Estou trabalhando como Auxiliar de escritorio. <br>- 📚 Atualmente estou estudando Sistemas da informação. <br>- ⚡ No meu tempo livre eu gosto de ler, ver filmes ou séries e jogar.</p>
+<p align="left">Eu sou de São Paulo.  <br><br>- 🔭 Busca de um estagio. <br>- 📚 Atualmente estou estudando Sistemas da informação. <br>- ⚡ No meu tempo livre eu gosto de ler, ver filmes ou séries e jogar.</p>
 
 ###
 
